@@ -86,4 +86,5 @@ If you encounter any issues or have feedback regarding this Market Basket Analys
 
 ## Credits/Contributors to this Project
 Jaykumar Patel
-Krushna Caridle
+
+Krushna Karidle
