@@ -74,12 +74,16 @@ Based on our analysis, we recommend the following actions for optimizing sales a
 
 
 ## Challenges
-Throughout the project, I encountered several challenges that tested my skills and problem-solving abilities. One of the main hurdles was the transformation of raw data into a format suitable for analysis. The dataset's structure presented complexities that required careful handling and manipulation. To overcome this challenge, I employed various techniques such as data reshaping and cleaning to ensure accurate insights.
+Throughout the project, we encountered several challenges that tested our skills and problem-solving abilities. One of the main hurdles was the transformation of raw data into a format suitable for analysis. The dataset's structure presented complexities that required careful handling and manipulation. To overcome this challenge, we employed various techniques such as data reshaping and cleaning to ensure accurate insights.
 
-Additionally, writing DAX expressions for calculating key metrics posed another challenge. The syntax and logic required for DAX calculations were initially complex for me to grasp. To address this, I extensively researched DAX functions and expressions, sought guidance from online resources, and experimented with different approaches until I achieved the desired results. Through perseverance and continuous learning, I gained proficiency in utilizing DAX for effective data analysis and visualization.
+Additionally, writing DAX expressions for calculating key metrics posed another challenge. The syntax and logic required for DAX calculations were initially complex for us to grasp. To address this, we extensively researched DAX functions and expressions, sought guidance from online resources, and experimented with different approaches until we achieved the desired results. Through perseverance and continuous learning, we gained proficiency in utilizing DAX for effective data analysis and visualization.
 
-Despite these challenges, tackling them provided valuable learning opportunities and enhanced my skills in data analysis and Power BI dashboard development.
+Despite these challenges, tackling them provided valuable learning opportunities and enhanced our skills in data analysis and Power BI dashboard development.
 
 ## Support and Feedback
 
-If you encounter any issues or have feedback regarding this Market Basket Analysis dashboard, please feel free to reach out to me.
+If you encounter any issues or have feedback regarding this Market Basket Analysis dashboard, please feel free to reach out to us.
+
+## Credits/Contributors to this Project
+Jaykumar Patel
+Krushna Caridle
